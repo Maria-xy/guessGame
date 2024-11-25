@@ -1,0 +1,24 @@
+.title{
+    font-size: 30px;
+    color: blueviolet;
+}
+.error1{
+    color: red;
+}
+
+.error2{
+    color: red;
+}
+
+.headingTwo{
+    display: none;
+}
+.inputTwo{
+    display: none;
+}
+.buttonTwo{
+    display: none;
+}
+.error2{
+    display: none;
+}
